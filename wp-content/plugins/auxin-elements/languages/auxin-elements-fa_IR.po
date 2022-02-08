@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Auxin Essential Elements\n"
 "Report-Msgid-Bugs-To: http://averta.net/phlox/wordpress-theme/\n"
-"POT-Creation-Date: 2022-01-18 08:35:20+00:00\n"
+"POT-Creation-Date: 2022-01-24 06:28:50+00:00\n"
 "PO-Revision-Date: 2016-11-09 12:50+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -251,31 +251,31 @@ msgstr "دسته"
 msgid "a long time"
 msgstr ""
 
-#: admin/includes/admin-the-functions.php:179
+#: admin/includes/admin-the-functions.php:182
 msgid "Template ID or type is required."
 msgstr ""
 
-#: admin/includes/admin-the-functions.php:190
+#: admin/includes/admin-the-functions.php:193
 msgid "An error occurred while updating templates library."
 msgstr ""
 
-#: admin/includes/admin-the-functions.php:209
+#: admin/includes/admin-the-functions.php:212
 msgid "Template Not Found."
 msgstr ""
 
-#: admin/includes/admin-the-functions.php:225
+#: admin/includes/admin-the-functions.php:228
 msgid "Template is already imported."
 msgstr ""
 
-#: admin/includes/admin-the-functions.php:241
+#: admin/includes/admin-the-functions.php:244
 msgid "Connection error, please check your connection."
 msgstr ""
 
-#: admin/includes/admin-the-functions.php:303
+#: admin/includes/admin-the-functions.php:306
 msgid "Template Imported Successfully"
 msgstr ""
 
-#: admin/includes/admin-the-functions.php:315
+#: admin/includes/admin-the-functions.php:318
 msgid "Error while saving the template."
 msgstr ""
 

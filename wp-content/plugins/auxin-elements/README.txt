@@ -7,7 +7,7 @@ Tags: phlox, gallery, elementor, siteorigin, auxin, averta, auxin-elements, fram
 Requires PHP: 5.4
 Requires at least: 4.6
 Tested up to: 5.8.2
-Stable tag: 2.9.3
+Stable tag: 2.9.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -154,6 +154,9 @@ Bugs can be reported in our [support forums](https://docs.phlox.pro).
 
 
 == Changelog ==
+
+= Version 2.9.4 / (23.01.2022) =
+- [Fix]: An issue while creating a translation with Polylang plugin fixed.
 
 = Version 2.8.0 / (28.06.2021) =
 - [New]: Integrating "Ti Wishlist plugin" for better wishlist features in shops.

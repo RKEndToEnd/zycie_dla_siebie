@@ -155,6 +155,9 @@ function auxin_get_total_updates(){
 function auxin_set_uncategorized_term ( $post_id, $post ) {
     $taxonomies = get_object_taxonomies( $post->post_type );
     foreach ( $taxonomies as $taxonomy ) {
+        if ( $taxonomy == 'language' || $taxonomy == 'post_translations' ) {
+            continue;
+        }
         $terms = wp_get_post_terms( $post_id, $taxonomy );
         if ( empty( $terms ) ) {
             wp_set_object_terms( $post_id, 'uncategorized', $taxonomy );
